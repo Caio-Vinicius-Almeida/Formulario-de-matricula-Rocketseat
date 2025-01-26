@@ -22,6 +22,6 @@ input:focus,
 textarea:focus,
 select:focus {
   outline: 0.25rem solid var(--surface-secondary);
-  border: 0.125rem solid var(--stroke-higlight);
+  border: 0.125rem solid var(--stroke-highlight);
   outline-offset: 0.1px;
 }
